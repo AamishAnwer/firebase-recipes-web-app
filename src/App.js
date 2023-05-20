@@ -1,9 +1,10 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 
+// eslint-disable-next-line no-unused-vars
 import firebase from "./FirebaseConfig";
 
-function App() {
+function App() {git a
   return (
     <div className="App">
       <div className="title-row">
